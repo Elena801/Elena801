@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Elena801
+- 👀 I’m looking for Rust Developers who want to build a blockchain project
+- 🌱 I’m Infrastructure Ventures
+- 💞️ I’m looking to collaborate on ...
+- 📫 https://www.linkedin.com/in/elena-nicole-mihajlovska/
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<I'm Elena at Infrastructure Ventures. My job is to find talented developers in capital-restricted regions building blockchain projects.
